@@ -1,0 +1,9 @@
+.idea
+.cache
+node_modules
+.firebase
+*.json
+*.xml
+*.iml
+dist
+.firebaserc
